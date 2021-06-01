@@ -21,7 +21,7 @@ Contact me [HERE](mailto:rbradley0@foxsys.org?subject=Contacting%20From%20Github
 
 | NT | Linux | BSD |
 | :-: | :-: | :-: |
-| ![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white) | ![FreeBSD](https://img.shields.io/badge/FreeBSD-FF0000?style=for-the-badge&logo=freebsd&logoColor=white) |
+| ![Windows 10](https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white) | ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white) | ![FreeBSD](https://img.shields.io/badge/FreeBSD-FF0000?style=for-the-badge&logo=freebsd&logoColor=white) |
 | - | ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white) | ![OpenBSD](https://img.shields.io/badge/OpenBSD-FFD700?style=for-the-badge&logo=openbsd&logoColor=black) |
 | - | ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white) | ![opnSense](https://img.shields.io/badge/opnSense-E95420?style=for-the-badge&logo=opnsense&logoColor=white) |
 | - | ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) | ![pfSense](https://img.shields.io/badge/pfSense-0078d7?style=for-the-badge&logo=pfsense&logoColor=white) |
