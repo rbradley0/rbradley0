@@ -14,29 +14,22 @@ Contact me [HERE](mailto:rbradley0@foxsys.org?subject=Contacting%20From%20Github
 
 ### Oral/Written Languages
 
-> **Proficiency:** Intermediate
-
-English &horbar; Native Language
-
-> **Proficiency:** Novice/Learning
-
-German &horbar; Learning\
-Japanese &horbar; Learning
+| Intermediate | Novice/Learning |
+| :-: | :-: |
+|English (**Native**)|German|
+|-|Japanese|
 
 ### Operating Systems
 
-![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
-![Arch Linux](https://img.shields.io/badge/Manjaro-11AB00?style=for-the-badge&logo=manjaro&logoColor=white)
-![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-FF0000?style=for-the-badge&logo=freebsd&logoColor=white)
-![OpenBSD](https://img.shields.io/badge/OpenBSD-FFD700?style=for-the-badge&logo=openbsd&logoColor=black)
-![pfSense](https://img.shields.io/badge/pfSense-0078d7?style=for-the-badge&logo=pfsense&logoColor=white)
-![opnSense](https://img.shields.io/badge/opnSense-E95420?style=for-the-badge&logo=opnsense&logoColor=white)
+| NT | Linux | BSD |
+| :-: | :-: | :-: |
+|![Windows 10](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)|![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)|![FreeBSD](https://img.shields.io/badge/FreeBSD-FF0000?style=for-the-badge&logo=freebsd&logoColor=white)|
+|-|![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)|![OpenBSD](https://img.shields.io/badge/OpenBSD-FFD700?style=for-the-badge&logo=openbsd&logoColor=black)|
+|-|![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)|![opnSense](https://img.shields.io/badge/opnSense-E95420?style=for-the-badge&logo=opnsense&logoColor=white)|
+|-|![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)|![pfSense](https://img.shields.io/badge/pfSense-0078d7?style=for-the-badge&logo=pfsense&logoColor=white)|
+|-|![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)|-|
+|-|![Manjaro](https://img.shields.io/badge/Manjaro-11AB00?style=for-the-badge&logo=manjaro&logoColor=white)|-|
+|-|![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)|-|
 
 ### Editors and IDEs
 
@@ -46,27 +39,17 @@ Japanese &horbar; Learning
 
 ### Computer Languages I Know
 
-> **Proficiency:** Intermediate
-
-![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-%2314354C?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-> **Proficiency:** Novice/Learning
-
-![LaTeX](https://img.shields.io/badge/latex-%23008080?style=for-the-badge&logo=latex&logoColor=white)
-![Lua](https://img.shields.io/badge/lua-%232C2D72?style=for-the-badge&logo=lua&logoColor=white)
-![Perl](https://img.shields.io/badge/perl-%2339457E?style=for-the-badge&logo=perl&logoColor=white)
-![Rust](https://img.shields.io/badge/rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)
-![Ruby](https://img.shields.io/badge/ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)
-![Go](https://img.shields.io/badge/go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)
-![PHP](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C?style=for-the-badge&logo=c&logoColor=white)
+| Intermediate | Novice/Learning |
+|:-:|:-:|
+|![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)|![LaTeX](https://img.shields.io/badge/latex-%23008080?style=for-the-badge&logo=latex&logoColor=white)|
+|![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white)|![Lua](https://img.shields.io/badge/lua-%232C2D72?style=for-the-badge&logo=lua&logoColor=white)|
+|![Python](https://img.shields.io/badge/python-%2314354C?style=for-the-badge&logo=python&logoColor=white)|![Perl](https://img.shields.io/badge/perl-%2339457E?style=for-the-badge&logo=perl&logoColor=white)|
+|![C#](https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white)|![Rust](https://img.shields.io/badge/rust-%23000000?style=for-the-badge&logo=rust&logoColor=white)|
+|![Java](https://img.shields.io/badge/java-%23ED8B00?style=for-the-badge&logo=java&logoColor=white)|![Ruby](https://img.shields.io/badge/ruby-%23CC342D?style=for-the-badge&logo=ruby&logoColor=white)|
+|![HTML5](https://img.shields.io/badge/html5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white)|![Go](https://img.shields.io/badge/go-%2300ADD8?style=for-the-badge&logo=go&logoColor=white)|
+|![CSS3](https://img.shields.io/badge/css3-%231572B6?style=for-the-badge&logo=css3&logoColor=white)|![PHP](https://img.shields.io/badge/php-%23777BB4?style=for-the-badge&logo=php&logoColor=white)|
+|-|![C++](https://img.shields.io/badge/c++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)|
+|-|![C](https://img.shields.io/badge/c-%2300599C?style=for-the-badge&logo=c&logoColor=white)|
 
 ### Frameworks and libraries
 
