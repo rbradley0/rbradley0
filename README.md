@@ -1,7 +1,5 @@
 # About Me
 
-## Introduction
-
 Hello, my name is Ryan.\
 I'm a full-time college student studying for an Associate of Science degree in Computer Information Technology.\
 I am an amateur software engineer, computer systems administrator, and network engineer. I'm constantly learning new systems and solutions that can and are deployed in both home and business environments.
