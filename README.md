@@ -33,6 +33,10 @@ Japanese &horbar; Learning
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Manjaro-11AB00?style=for-the-badge&logo=manjaro&logoColor=white)
 ![Alpine Linux](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-FF0000?style=for-the-badge&logo=freebsd&logoColor=white)
+![OpenBSD](https://img.shields.io/badge/OpenBSD-FFD700?style=for-the-badge&logo=openbsd&logoColor=black)
+![pfSense](https://img.shields.io/badge/pfSense-0078d7?style=for-the-badge&logo=pfsense&logoColor=white)
+![opnSense](https://img.shields.io/badge/opnSense-E95420?style=for-the-badge&logo=opnsense&logoColor=white)
 
 ### Editors and IDEs
 
@@ -79,6 +83,10 @@ Japanese &horbar; Learning
 ![Postgres](https://img.shields.io/badge/postgres-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f?style=for-the-badge&logo=mysql&logoColor=white)
+
+### Network Management & Administration
+
+![ubiquiti](https://img.shields.io/badge/ubiquiti-%2300f?style=for-the-badge&logo=ubiquiti&logoColor=white)
 
 ### Hosting/SaaS
 
