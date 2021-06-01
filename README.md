@@ -44,7 +44,7 @@ Contact me [HERE](mailto:rbradley0@foxsys.org?subject=Contacting%20From%20Github
 
 | Intermediate | Novice/Learning |
 | :-: | :-: |
-| ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | ![LaTeX](https://img.shields.io/badge/latex-%23008080?style=for-the-badge&logo=latex&logoColor=white) |
+| ![JavaScript](https://img.shields.io/badge/javascript-%23323330?style=for-the-badge&logo=javascript&logoColor=white) | ![LaTeX](https://img.shields.io/badge/latex-%23008080?style=for-the-badge&logo=latex&logoColor=white) |
 | ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Lua](https://img.shields.io/badge/lua-%232C2D72?style=for-the-badge&logo=lua&logoColor=white) |
 | ![Python](https://img.shields.io/badge/python-%2314354C?style=for-the-badge&logo=python&logoColor=white) | ![Perl](https://img.shields.io/badge/perl-%2339457E?style=for-the-badge&logo=perl&logoColor=white) |
 | ![C#](https://img.shields.io/badge/c%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![Rust](https://img.shields.io/badge/rust-%23000000?style=for-the-badge&logo=rust&logoColor=white) |
@@ -77,4 +77,4 @@ Contact me [HERE](mailto:rbradley0@foxsys.org?subject=Contacting%20From%20Github
 [![DigitalOcean Referral Badge](https://img.shields.io/badge/DigitalOcean-%230167ff?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/?refcode=ae0a1f51dd8d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23FFA500?style=for-the-badge&logo=cloudflare&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639?style=for-the-badge&logo=nginx&logoColor=white)
-![Caddy](https://img.shields.io/badge/caddy-%23009639?style=for-the-badge)
+![Caddy](https://img.shields.io/badge/caddy-%23009639?style=for-the-badge&logo=.net&logoColor=white)
