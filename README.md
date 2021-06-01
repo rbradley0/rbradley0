@@ -32,6 +32,7 @@ Contact me [HERE](mailto:rbradley0@foxsys.org?subject=Contacting%20From%20Github
 | - | ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) | ![pfSense](https://img.shields.io/badge/pfSense-0078d7?style=for-the-badge&logo=pfsense&logoColor=white) |
 | - | ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) | - |
 | - | ![Manjaro](https://img.shields.io/badge/Manjaro-11AB00?style=for-the-badge&logo=manjaro&logoColor=white) | - |
+| - | ![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white) | - |
 | - | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | - |
 
 ### Editors and IDEs
@@ -54,6 +55,11 @@ Contact me [HERE](mailto:rbradley0@foxsys.org?subject=Contacting%20From%20Github
 | ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white) |
 | - | ![Ruby](https://img.shields.io/badge/ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white) |
 | - | ![Rust](https://img.shields.io/badge/rust-000000?style=for-the-badge&logo=rust&logoColor=white) |
+
+### Virtualization
+
+![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Linux Containers](https://img.shields.io/badge/LXC-003366?style=for-the-badge&logo=linux-containers&logoColor=white)
 
 ### Frameworks and libraries
 
