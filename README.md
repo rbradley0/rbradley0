@@ -8,6 +8,11 @@ I prefer working on computer hardware (i.e. building, configuring, debugging, ma
 
 Contact me [HERE](mailto:rbradley0@foxsys.org?subject=Contacting%20From%20Github) if you'd like to get in touch with me.
 
+## Certifications
+
+![CompTIA_A_Plus_CE](https://img.shields.io/badge/CompTIA_A+_CE-FF0000?style=for-the-badge&logo=none)
+![CompTIA_Linux_Plus](https://img.shields.io/badge/CompTIA_Linux+-FF0000?style=for-the-badge&logo=none)
+
 ## Things I know, use, and learn from
 
 ### Oral/Written Languages
