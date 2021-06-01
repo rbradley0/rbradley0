@@ -20,8 +20,8 @@ English &horbar; Native Language
 
 > **Proficiency:** Novice/Learning
 
-German\
-Japanese
+German &horbar; Learning\
+Japanese &horbar; Learning
 
 ### Operating Systems
 
