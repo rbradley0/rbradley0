@@ -60,11 +60,13 @@ Contact me [HERE](mailto:rbradley0@foxsys.org?subject=Contacting%20From%20Github
 
 ![Docker](https://img.shields.io/badge/docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux Containers](https://img.shields.io/badge/LXC-003366?style=for-the-badge&logo=linux-containers&logoColor=white)
+![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/Virtual_Box-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
 ### Frameworks and libraries
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![dotNET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge)
+![dotNET](https://img.shields.io/badge/dotNET-5C2D91?style=for-the-badge)
 ![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-35495e?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D)
