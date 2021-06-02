@@ -10,8 +10,12 @@ Contact me [HERE](mailto:rbradley0@foxsys.org?subject=Contacting%20From%20Github
 
 ## Certifications
 
-![CompTIA_A_Plus_CE](https://img.shields.io/badge/CompTIA_A+_CE-FF0000?style=for-the-badge&logo=none)
-![CompTIA_Linux_Plus](https://img.shields.io/badge/CompTIA_Linux+-FF0000?style=for-the-badge&logo=none)
+| Current | Learning |
+| :-: | :-: |
+| ![CompTIA_A_Plus_CE](https://img.shields.io/badge/CompTIA_A+_CE-FF0000?style=for-the-badge&logo=none) | - |
+| ![CompTIA_Linux_Plus](https://img.shields.io/badge/CompTIA_Linux+-FF0000?style=for-the-badge&logo=none) | - |
+
+
 
 ## Things I know, use, and learn from
 
