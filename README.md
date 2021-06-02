@@ -53,7 +53,7 @@ Contact me [HERE](mailto:rbradley0@foxsys.org?subject=Contacting%20From%20Github
 | ![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) | ![C](https://img.shields.io/badge/c-00599C?style=for-the-badge&logo=c&logoColor=white) |
 | ![CSS3](https://img.shields.io/badge/css3-1572B6?style=for-the-badge&logo=css3&logoColor=white) | ![C++](https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) |
 | ![HTML5](https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white) | ![Go](https://img.shields.io/badge/go-00ADD8?style=for-the-badge&logo=go&logoColor=white) |
-| ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=white) | ![LaTeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white) |
+| ![Java](https://img.shields.io/badge/java-ED8B00?style=for-the-badge&logo=java&logoColor=black) | ![LaTeX](https://img.shields.io/badge/latex-008080?style=for-the-badge&logo=latex&logoColor=white) |
 | ![JavaScript](https://img.shields.io/badge/javascript-323330?style=for-the-badge&logo=javascript&logoColor=white) | ![Lua](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white) |
 | ![Python](https://img.shields.io/badge/python-14354C?style=for-the-badge&logo=python&logoColor=white) | ![Perl](https://img.shields.io/badge/perl-39457E?style=for-the-badge&logo=perl&logoColor=white) |
 | ![TypeScript](https://img.shields.io/badge/typescript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![PHP](https://img.shields.io/badge/php-777BB4?style=for-the-badge&logo=php&logoColor=white) |
@@ -70,10 +70,10 @@ Contact me [HERE](mailto:rbradley0@foxsys.org?subject=Contacting%20From%20Github
 ### Frameworks and libraries
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![dotNET](https://img.shields.io/badge/dotNET-5C2D91?style=for-the-badge)
+![dotNET](https://img.shields.io/badge/dotNET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vuejs-35495e?style=for-the-badge&logo=vue-dot-js&logoColor=4FC08D)
+![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
 
 ### Database
 
@@ -89,7 +89,7 @@ Contact me [HERE](mailto:rbradley0@foxsys.org?subject=Contacting%20From%20Github
 
 | Hosting | Web Servers |
 | :-: | :-: |
-| ![Cloudflare](https://img.shields.io/badge/Cloudflare-FFA500?style=for-the-badge&logo=cloudflare&logoColor=white) | ![Caddy](https://img.shields.io/badge/caddy-009639?style=for-the-badge&logo=.net&logoColor=white) |
+| ![Cloudflare](https://img.shields.io/badge/Cloudflare-FFA500?style=for-the-badge&logo=cloudflare&logoColor=white) | ![Caddy](https://img.shields.io/badge/caddy-009639?style=for-the-badge&logo=caddy&logoColor=white) |
 | [![DigitalOcean Referral Badge](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/?refcode=ae0a1f51dd8d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) | ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
 | ![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white) | - |
 
