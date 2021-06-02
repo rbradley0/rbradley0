@@ -88,3 +88,15 @@ Contact me [HERE](mailto:rbradley0@foxsys.org?subject=Contacting%20From%20Github
 | ![Cloudflare](https://img.shields.io/badge/Cloudflare-FFA500?style=for-the-badge&logo=cloudflare&logoColor=white) | ![Caddy](https://img.shields.io/badge/caddy-009639?style=for-the-badge&logo=.net&logoColor=white) |
 | [![DigitalOcean Referral Badge](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/?refcode=ae0a1f51dd8d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) | ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
 | ![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white) | - |
+
+### Miscellaneous
+
+![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
+![Signal](https://img.shields.io/badge/signal-2592E9?style=for-the-badge&logo=signal&logoColor=white)
+![ProtonMail](https://img.shields.io/badge/protonmail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+
+### Methods of Support
+
+|||
+|-|:-:|
+|![Monero](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)|43fen3Ag47N5MmQA4HJBadR3fnZnR66xfTa5wEk2zj7rCRFXX72Du8GEneBSUcxf1SC2ZouFEzuaBNpYfyVRwVPVMRLQxoy|
