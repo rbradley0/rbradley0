@@ -34,7 +34,6 @@ Contact me [HERE](mailto:rbradley0@foxsys.org?subject=Contacting%20From%20Github
 | - | ![Debian](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white) | ![pfSense](https://img.shields.io/badge/pfSense-0078d7?style=for-the-badge&logo=pfsense&logoColor=white) |
 | - | ![Fedora](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white) | - |
 | - | ![Manjaro](https://img.shields.io/badge/Manjaro-11AB00?style=for-the-badge&logo=manjaro&logoColor=white) | - |
-| - | ![Proxmox VE](https://img.shields.io/badge/Proxmox_VE-E57000?style=for-the-badge&logo=proxmox&logoColor=white) | - |
 | - | ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) | - |
 
 ### Editors and IDEs
@@ -68,7 +67,7 @@ Contact me [HERE](mailto:rbradley0@foxsys.org?subject=Contacting%20From%20Github
 ### Frameworks and libraries
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![dotNET](https://img.shields.io/badge/dotNET-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
+![dotNET](https://img.shields.io/badge/.net-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
 ![NodeJS](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
