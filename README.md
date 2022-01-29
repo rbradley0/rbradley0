@@ -6,7 +6,7 @@ I am an amateur software engineer, computer systems administrator, and network e
 
 I prefer working on computer hardware (i.e. building, configuring, debugging, maintaining, etc.) more than working on computer software. Since hardware is more tangible than software, I find it easier to work with.
 
-Contact me [HERE](mailto:rbradley0@foxsys.org?subject=Contacting%20From%20Github) if you'd like to get in touch with me.
+Contact me [HERE](mailto:rbradley0@foxtek.net?subject=Contacting%20From%20Github) if you'd like to get in touch with me.
 
 ## Certifications
 
@@ -64,14 +64,6 @@ Contact me [HERE](mailto:rbradley0@foxsys.org?subject=Contacting%20From%20Github
 ![QEMU](https://img.shields.io/badge/QEMU-FF6600?style=for-the-badge&logo=qemu&logoColor=white)
 ![VirtualBox](https://img.shields.io/badge/Virtual_Box-183A61?style=for-the-badge&logo=virtualbox&logoColor=white)
 
-### Frameworks and libraries
-
-![Bootstrap](https://img.shields.io/badge/bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![dotNET](https://img.shields.io/badge/.net-5C2D91?style=for-the-badge&logo=dot-net&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-404d59?style=for-the-badge&logo=express&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white)
-![Vue.js](https://img.shields.io/badge/vue.js-4FC08D?style=for-the-badge&logo=vue-dot-js&logoColor=white)
-
 ### Database
 
 ![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
@@ -84,17 +76,7 @@ Contact me [HERE](mailto:rbradley0@foxsys.org?subject=Contacting%20From%20Github
 
 ### Web services & Hosting
 
-| Hosting | Web Servers |
-| :-: | :-: |
-| ![Cloudflare](https://img.shields.io/badge/Cloudflare-FFA500?style=for-the-badge&logo=cloudflare&logoColor=white) | ![Caddy](https://img.shields.io/badge/caddy-009639?style=for-the-badge&logo=caddy&logoColor=white) |
-| [![DigitalOcean Referral Badge](https://img.shields.io/badge/DigitalOcean-0167ff?style=for-the-badge&logo=digitalocean&logoColor=white)](https://www.digitalocean.com/?refcode=ae0a1f51dd8d&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge) | ![Nginx](https://img.shields.io/badge/nginx-009639?style=for-the-badge&logo=nginx&logoColor=white) |
-| ![Namecheap](https://img.shields.io/badge/Namecheap-DE3723?style=for-the-badge&logo=namecheap&logoColor=white) | - |
-
-### Miscellaneous
-
-![Discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
-![Signal](https://img.shields.io/badge/signal-2592E9?style=for-the-badge&logo=signal&logoColor=white)
-![ProtonMail](https://img.shields.io/badge/protonmail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-FFA500?style=for-the-badge&logo=cloudflare&logoColor=white)
 
 <!-- ### Methods of Support
 
