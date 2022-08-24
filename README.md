@@ -6,8 +6,6 @@ I am an amateur software engineer, computer systems administrator, and network e
 
 I prefer working on computer hardware (i.e. building, configuring, debugging, maintaining, etc.) more than working on computer software. Since hardware is more tangible than software, I find it easier to work with.
 
-Contact me [HERE](mailto:rbradley0@foxtek.net?subject=Contacting%20From%20Github) if you'd like to get in touch with me.
-
 ## Certifications
 
 | Current | Planned |
